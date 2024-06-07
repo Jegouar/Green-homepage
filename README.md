@@ -1,4 +1,4 @@
-# Green-homepage
+# green-homepage
 ## Codecademy Full-Stack Engineer Challenge Project: Company Home Page with Flexbox
 
 To fulfill the project requirements I redesigned the home page of an existing local business website, greenhomeenergyservices.co.uk.
